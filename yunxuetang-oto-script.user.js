@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      -
+// @license     MIT
 // @description 8/16/2024, 2:14:21 PM
 // ==/UserScript==
 

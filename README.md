@@ -2,7 +2,7 @@
 
 云学堂企业培训自动继续学习脚本
 
-仅限 `http*://*.yunxuetang.cn/o2o/*/playinfo* `
+仅限 `*.yunxuetang.cn/o2o/#/playinfo`
 
 使用前请确认 url 是否符合.
 

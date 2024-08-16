@@ -10,7 +10,7 @@
 
 触发 "防挂机验证" 时自动点击 "继续学习" 按钮
 
-![已触发防挂机验证](assets/alert.png)
+![图: "已触发防挂机验证"](https://github.com/maou-sama-desu/yunxuetang-oto-script/raw/master/assets/alert.png)
 
 ## 安装
 

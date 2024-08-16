@@ -3,7 +3,7 @@
 // @namespace   https://github.com/maou-sama-desu/yunxuetang-oto-script
 // @match       http*://*.yunxuetang.cn/o2o/*/playinfo*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      -
 // @license     MIT
 // @description 8/16/2024, 2:14:21 PM

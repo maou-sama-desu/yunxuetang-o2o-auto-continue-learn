@@ -1,6 +1,6 @@
 # yunxuetang-o2o-script
 
-云学堂企业培训自动继续学习脚本
+云学堂企业培训自动点击"继续学习"脚本
 
 仅限 `*.yunxuetang.cn/o2o/#/playinfo`
 

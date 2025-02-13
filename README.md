@@ -1,16 +1,14 @@
-# yunxuetang-o2o-script
+# 云学堂企业培训自动点击"继续学习"脚本
 
-云学堂企业培训自动点击"继续学习"脚本
-
-仅限 `*.yunxuetang.cn/o2o/#/playinfo`
-
+注意: 
+只能用在网址是 `*.yunxuetang.cn/o2o/#/playinfo` 的页面,
 使用前请确认 url 是否符合.
 
 ## 主要功能
 
 触发 "防挂机验证" 时自动点击 "继续学习" 按钮
 
-![图: "已触发防挂机验证"](https://github.com/maou-sama-desu/yunxuetang-oto-script/raw/master/assets/alert.png)
+![图: "已触发防挂机验证"](https://github.com/maou-sama-desu/yunxuetang-o2o-auto-continue-learn/raw/master/assets/alert.png)
 
 ## 安装
 
